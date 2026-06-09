@@ -25,3 +25,6 @@ streamlit run app.py
 
 ## 📌 Project Info
 This project was developed as part of CodeAlpha Internship.
+## 📸 Project Preview
+
+![Chatbot Screenshot](screenshot.png)
